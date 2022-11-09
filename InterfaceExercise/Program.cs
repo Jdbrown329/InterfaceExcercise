@@ -14,14 +14,14 @@ namespace InterfaceExercise
 
             //In your IVehicle
             
-                /* Create 4 members that Car, Truck, & SUV all have in common.
+                /* Create 4 members that Car, Truck, & SUV all have in common.-Done
                  * Example: All vehicles have a number of wheels... for now..
                  */
             
 
             //In ICompany
             
-                /*Create 2 members that are specific to each every company
+                /*Create 2 members that are specific to each every company- Done.
                  * regardless of vehicle type.
                  *
                  *
@@ -37,7 +37,8 @@ namespace InterfaceExercise
                  * 
                  */
 
-            //Now, create objects of your 3 classes and give their members values;
+           new Car= new Car
+                //Now, create objects of your 3 classes and give their members values;
             //Creatively display and organize their values
         }
     }
